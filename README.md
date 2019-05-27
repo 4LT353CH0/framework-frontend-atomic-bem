@@ -16,13 +16,15 @@
 * BEM : http://getbem.com/
 * REACT.JS : https://reactjs.org/
 
-#### Contact Me ####
+#### Oh, almost forgot... ####
 
-Don't hesitate to use it, but there's one condition : 
+Don't hesitate to use this framework, but there's one condition : 
 
-__Do set this meta tag in the head of your HTMl to honour Sir Terry Pratchett__ [ref] : http://www.gnuterrypratchett.com/#HTML
+__Do set this meta tag in the head of your HTMl to honour Sir Terry Pratchett__ - http://www.gnuterrypratchett.com/#HTML
 
-**<meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />**
+
+
+
 
 
 
