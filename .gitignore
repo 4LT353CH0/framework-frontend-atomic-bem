@@ -6,4 +6,5 @@ sources
 sources/*
 humans.txt
 config.codekit3
+.DS_Store
 
