@@ -1,0 +1,14 @@
+{
+  "extensions": {
+    "808": true,
+    "beautify.io": true,
+    "hirse.outline-list": true,
+    "bracketstoix": true,
+    "brackets-emmet": true,
+    "milosh86.extensions-bulk-installer": false,
+    "brackets-lorem-ipsum": true,
+    "io.github.mikankari.processing-lang": true,
+    "a-type.pjs-syntax-highlighting": true,
+    "brackets.swatcher": true
+  }
+}
