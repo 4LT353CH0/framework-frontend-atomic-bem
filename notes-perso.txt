@@ -1,0 +1,5 @@
+190528
+------
+# Intégrer l'aspect [float] avec du flexbox partiel
+## Comment appliquer un  [css-grid]?
+## Éventuellement avec des conditions sur l'incompatibilité
